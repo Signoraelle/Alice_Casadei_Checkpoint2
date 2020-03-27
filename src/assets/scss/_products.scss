@@ -15,8 +15,8 @@
     background: #000;
     overflow: hidden;
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.5);
-    width: 300px;
-    height: 450px;
+    width: auto;
+    height: auto;
   }
 
   .card .poster {
@@ -113,16 +113,54 @@
     display: flex;
     color: white;
   }
+  .heart-wrapper {
+    width: 70px;
+    height: 70px;
+    margin-top: 500px;
+    position: relative;
+    border-radius: 50px;
+    margin: auto;
+  }
 
   .fa-heart {
-    position: relative;
-    margin-top: 30px;
-    margin-left: 250px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
     transform: translate(-50%, -50%);
-    font-size: 20px;
-    color: #ff0d0d;
+    font-size: 30px;
+    color: red;
     transition: 1s;
   }
+  .background-heart::after {
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    content: "\f004";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 38px;
+    color: red;
+    transition: 1s;
+    z-index: -1;
+    animation: fill-heart 1s;
+  }
+
+  .background-heart::before {
+    content: "";
+    width: 60px;
+    height: 60px;
+    opacity: 0.2;
+    background-color: red;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: -1;
+    border-radius: 200px;
+    animation: circle-expand 1s;
+  }
+
   @keyframes fill-heart {
     0% {
       opacity: 0;

@@ -28,9 +28,11 @@ const ProductItem = ({
         <div class="star">
           <h5> {actors} </h5>
         </div>
-
-        <div class="heart-wrapper">
-          <i class="far fa-heart"></i>
+        <div ng-app="app">
+          <div class="heart-wrapper">
+            <i class="far fa-heart"></i>
+          </div>
+          div>
         </div>
       </div>
     </div>
