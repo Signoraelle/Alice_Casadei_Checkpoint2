@@ -11,7 +11,7 @@ export default {
       plot:
         'A couple of recently deceased ghosts contract the services of a "bio-exorcist" in order to remove the obnoxious new owners of their house.',
       posterUrl:
-        "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUwODE3MDE0MV5BMl5BanBnXkFtZTgwNTk1MjI4MzE@._V1_SX300.jpg"
+        "https://dyn1.heritagestatic.com/lf?set=path%5B1%2F7%2F2%2F4%2F1%2F17241119%5D%2Csizedata%5B850x600%5D&call=url%5Bfile%3Aproduct.chain%5D"
     },
     {
       id: 2,
@@ -37,7 +37,7 @@ export default {
       plot:
         "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
       posterUrl:
-        "https://images-na.ssl-images-amazon.com/images/M/MV5BODU4MjU4NjIwNl5BMl5BanBnXkFtZTgwMDU2MjEyMDE@._V1_SX300.jpg"
+        "https://i.pinimg.com/originals/9f/90/9b/9f909bd8bbcb9feb7a4b09343217c078.jpg"
     },
     {
       id: 4,
@@ -63,7 +63,7 @@ export default {
       plot:
         "A dramatization of the 20 July assassination and political coup plot by desperate renegade German Army officers against Hitler during World War II.",
       posterUrl:
-        "http://ia.media-imdb.com/images/M/MV5BMTg3Njc2ODEyN15BMl5BanBnXkFtZTcwNTAwMzc3NA@@._V1_SX300.jpg"
+        "https://i.pinimg.com/originals/ec/70/11/ec701178bcedfee4609a2026bcde5daa.jpg"
     },
     {
       id: 6,
@@ -103,7 +103,7 @@ export default {
       plot:
         "A man juggles searching for his wife's murderer and keeping his short-term memory loss from being an obstacle.",
       posterUrl:
-        "https://images-na.ssl-images-amazon.com/images/M/MV5BNThiYjM3MzktMDg3Yy00ZWQ3LTk3YWEtN2M0YmNmNWEwYTE3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+        "https://images-na.ssl-images-amazon.com/images/I/71yESwnJzlL._SL1024_.jpg"
     },
     {
       id: 9,
@@ -116,7 +116,7 @@ export default {
       plot:
         "After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caregiver.",
       posterUrl:
-        "http://ia.media-imdb.com/images/M/MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@._V1_SX300.jpg"
+        "https://www.finalciak.com/sites/default/files/intouchables-poster-francia.jpg"
     },
     {
       id: 10,
@@ -156,7 +156,7 @@ export default {
       plot:
         "A mentally unstable Vietnam War veteran works as a night-time taxi driver in New York City where the perceived decadence and sleaze feeds his urge for violent action, attempting to save a preadolescent prostitute in the process.",
       posterUrl:
-        "https://images-na.ssl-images-amazon.com/images/M/MV5BNGQxNDgzZWQtZTNjNi00M2RkLWExZmEtNmE1NjEyZDEwMzA5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+        "https://upload.wikimedia.org/wikipedia/commons/8/8d/Taxi_driver_movieposter.jpg"
     },
     {
       id: 13,
@@ -182,7 +182,7 @@ export default {
       plot:
         "An alien civilization is invaded by Astronaut Chuck Baker, who believes that the planet was uninhabited. Wanted by the military, Baker must get back to his ship before it goes into orbit without him.",
       posterUrl:
-        "http://ia.media-imdb.com/images/M/MV5BMTUyOTAyNTA5Ml5BMl5BanBnXkFtZTcwODU2OTM0Mg@@._V1_SX300.jpg"
+        "https://images-na.ssl-images-amazon.com/images/I/71c6iHJob0L._SY445_.jpg"
     },
     {
       id: 15,
@@ -195,7 +195,7 @@ export default {
       plot:
         "In 2074, when the mob wants to get rid of someone, the target is sent into the past, where a hired gun awaits - someone like Joe - who one day learns the mob wants to 'close the loop' by sending back Joe's future self for assassination.",
       posterUrl:
-        "http://ia.media-imdb.com/images/M/MV5BMTY3NTY0MjEwNV5BMl5BanBnXkFtZTcwNTE3NDA1OA@@._V1_SX300.jpg"
+        "https://1.bp.blogspot.com/-bGTw7UJHGVg/Uzk_E1IuToI/AAAAAAAAJa0/oev90YkkAyE/s1600/Looper+-+In+fuga+dal+passato.jpg"
     },
     {
       id: 16,
@@ -207,8 +207,7 @@ export default {
       actors: "Johnny Depp, Helena Bonham Carter, Emily Watson, Tracey Ullman",
       plot:
         "When a shy groom practices his wedding vows in the inadvertent presence of a deceased young woman, she rises from the grave assuming he has married her.",
-      posterUrl:
-        "http://ia.media-imdb.com/images/M/MV5BMTk1MTY1NjU4MF5BMl5BanBnXkFtZTcwNjIzMTEzMw@@._V1_SX300.jpg"
+      posterUrl: "https://pad.mymovies.it/filmclub/2005/07/029/locandinapg3.jpg"
     },
     {
       id: 17,
@@ -301,7 +300,7 @@ export default {
       plot:
         "An in-depth examination of the ways in which the U.S. Vietnam War impacts and disrupts the lives of people in a small industrial town in Pennsylvania.",
       posterUrl:
-        "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYzYmRmZTQtYjk2NS00MDdlLTkxMDAtMTE2YTM2ZmNlMTBkXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg"
+        "https://images-na.ssl-images-amazon.com/images/I/51C8UIQdbIL._SY445_.jpg"
     },
     {
       id: 24,
@@ -328,7 +327,7 @@ export default {
       plot:
         "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
       posterUrl:
-        "http://ia.media-imdb.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_SX300.jpg"
+        "https://www.movietele.it/files/styles/locandina/public/images/cinema/locandine/big/6797_0.jpg"
     },
     {
       id: 26,
