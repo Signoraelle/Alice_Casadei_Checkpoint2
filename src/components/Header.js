@@ -4,8 +4,7 @@ const Header = () => {
   return (
     <nav className="header">
       <ul>
-        <li>Home</li>
-        <li>About</li>
+        <li>Film List</li>
       </ul>
     </nav>
   );
