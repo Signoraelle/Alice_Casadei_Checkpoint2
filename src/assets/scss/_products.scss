@@ -113,4 +113,46 @@
     display: flex;
     color: white;
   }
+
+  .fa-heart {
+    position: relative;
+    margin-top: 30px;
+    margin-left: 250px;
+    transform: translate(-50%, -50%);
+    font-size: 20px;
+    color: #ff0d0d;
+    transition: 1s;
+  }
+  @keyframes fill-heart {
+    0% {
+      opacity: 0;
+    }
+
+    100% {
+      opacity: 1;
+    }
+  }
+  @keyframes circle-expand {
+    0% {
+      width: 60px;
+      height: 60px;
+      opacity: 1;
+    }
+    40% {
+      width: 0px;
+      height: 0px;
+      opacity: 0.2;
+    }
+    80% {
+      width: 60px;
+      height: 60px;
+      opacity: 0.2;
+    }
+
+    100% {
+      width: 60px;
+      height: 60px;
+      opacity: 0.2;
+    }
+  }
 }

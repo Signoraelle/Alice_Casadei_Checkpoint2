@@ -28,8 +28,9 @@ const ProductItem = ({
         <div class="star">
           <h5> {actors} </h5>
         </div>
-        <div ng-app="app">
-          <div ng-controller="ctrl"></div>
+
+        <div class="heart-wrapper">
+          <i class="far fa-heart"></i>
         </div>
       </div>
     </div>
