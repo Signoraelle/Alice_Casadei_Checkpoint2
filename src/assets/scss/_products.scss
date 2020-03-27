@@ -1,0 +1,15 @@
+.products {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 0.5rem;
+  .product-item {
+    border: 1px solid lightgray;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 150px;
+    color: black;
+  }
+}
