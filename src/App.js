@@ -15,6 +15,9 @@ const App = () => (
   >
     <Router>
       <Header />
+      <Switch>
+        <Route exact path="/" component={Home} />
+      </Switch>
     </Router>
   </Context.Provider>
 );
