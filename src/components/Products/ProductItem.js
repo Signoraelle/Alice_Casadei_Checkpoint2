@@ -1,5 +1,5 @@
 import React from "react";
-
+import PropTypes from "prop-types";
 const ProductItem = ({
   id,
   title,
@@ -12,19 +12,31 @@ const ProductItem = ({
   posterUrl
 }) => {
   return (
-    <div className="product-item">
-      <h3 className="title">{title}</h3>
-      <div className="details">
-        <span className="year">{year}</span>
-        <span className="runtime">{runtime}</span>
-        <span className="genres">{genres}</span>
-        <span className="director">{director}</span>
-        <span className="actors">{actors}</span>
-        <span className="plot">{plot}</span>
-        <span className="posterUrl">{posterUrl}</span>
+    <div className="card">
+      <div class="poster">
+        <img src={posterUrl} alt="" className="img" />{" "}
+      </div>
+      <div class="details">
+        <h2 className="title">
+          {title} ({year}) <h6>Diretto da {director}</h6>
+        </h2>
+
+        <div class="tags">{genres}</div>
+
+        <div class="info">{plot}</div>
+        <h4 className="runtime">Durata {runtime}</h4>
+        <div class="star">
+          <h5> {actors} </h5>
+        </div>
+        <div ng-app="app">
+          <div ng-controller="ctrl"></div>
+        </div>
       </div>
     </div>
   );
+};
+ProductItem.propTypes = {
+  product: PropTypes.object.isRequired
 };
 
 export default ProductItem;

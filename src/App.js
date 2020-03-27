@@ -1,8 +1,6 @@
 import React from "react";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
-// add ^ Route
-
 import Context from "./context";
 
 import settings from "./config/settings";

@@ -1,5 +1,5 @@
 import React, { useContext } from "react";
-
+import StarRating from "./StarRating/star-rating";
 import Context from "../../context";
 
 import ProductItem from "./ProductItem";
